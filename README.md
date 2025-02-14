@@ -52,7 +52,7 @@ A **correlation heatmap** visualizes relationships between numerical variables. 
 - Explores how **energy** and **acousticness** interact, revealing an inverse relationship.  
 
 ![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/d6891b87-166a-4dce-a2bc-6497e74ca0b2)  
-![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/e67c8b84-1ee2-43d3-9b43-39d6300db6a7)  
+![Image](https://github.com/user-attachments/assets/e06c6b5c-1a49-4697-acf8-cfdd72b60068) 
 
 ---
 
