@@ -39,7 +39,7 @@ To ensure **data quality**, missing values are identified using `pd.isnull()` an
 
 ### 🔹 Correlation Heatmap  
 A **correlation heatmap** visualizes relationships between numerical variables. It helps identify strong correlations between features.  
-![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/7fcca6ad-ce75-45f9-b4e5-88c93a3d49d6)  
+![Image](https://github.com/user-attachments/assets/22f3836d-6c1b-4b30-a641-2994092ef015) 
 
 ---
 
@@ -51,17 +51,16 @@ A **correlation heatmap** visualizes relationships between numerical variables. 
 #### 📌 2. **Energy vs Acousticness Correlation**  
 - Explores how **energy** and **acousticness** interact, revealing an inverse relationship.  
 
-![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/d6891b87-166a-4dce-a2bc-6497e74ca0b2)  
+![Image](https://github.com/user-attachments/assets/b9e363eb-e00f-4570-847a-ef34ad420981)
 ![Image](https://github.com/user-attachments/assets/e06c6b5c-1a49-4697-acf8-cfdd72b60068) 
 
 ---
 
 ### 🔹 Duration of Songs Over the Years  
-- **Bar and line plots** track how the average **song duration** has changed over time.  
+- **Bar plot** to track how the average **song duration** has changed over time.  
 - Helps understand trends in **song length evolution**.  
 
-![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/f52731f2-fe76-48d5-bbe5-2df0f44f0dfe)  
-![image](https://github.com/no37no37/spotify_tracks_eda/assets/132648428/c1afae7e-0944-4a28-ba0c-d9ce496bcc81)  
+![Image](https://github.com/user-attachments/assets/8b49df0b-5fd5-43c3-938d-80ab0738ac21)
 
 ---
 
