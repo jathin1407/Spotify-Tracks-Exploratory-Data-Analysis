@@ -71,8 +71,5 @@ The **Spotify Tracks Analysis** project provides **valuable insights** into song
 ✅ Feature correlations like **Energy vs Acousticness** and **Loudness vs Energy**  
 ✅ The evolution of song duration over the years  
 
-This project **enhances our understanding of music trends** and can be further extended for **predictive modeling** or **music recommendation systems**.  
 
----
 
-⭐ **If you found this project insightful, don't forget to star the repository!** ⭐  
